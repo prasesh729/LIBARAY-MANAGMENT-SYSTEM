@@ -1,1 +1,1 @@
-# LIBARAY-MANAGMENT-SYSTEM
+# A library management system is a desktop-based software program using python technology and tkinter framework, which is mainly used by librarian admin and library user. Librarian admin can add the books and can see who has not return the books and has full control over the system where he/she can edit the records of the book if necessary.
